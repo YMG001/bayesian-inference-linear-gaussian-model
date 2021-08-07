@@ -86,3 +86,9 @@ Regardless the naïve aspect of Naïve Bayes, and having into account that stron
 Nevertheless, introducing dependencies between the positions of different parts of the skeleton makes Linear Gaussian Model outperform the Naïve Bayes approach.
 
 Notice the importance to perform the calculation of the posteriors in Log Space to avoid floating point underflows, and ending up dealing with numbers of smaller absolute value than the computer can actually represent.
+
+
+## Cite this work
+    J. Rico (2019) Bayesian Inference: An Application to Kinect data
+    [Source code](https://github.com/jvirico/bayesian_inference_linear_gaussian_model)
+    [Report](https://rico-projects.notion.site/Bayesian-Inference-5eb7ac4f3b85418390ad0ee0ab68c9ea)
