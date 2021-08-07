@@ -92,3 +92,19 @@ Notice the importance to perform the calculation of the posteriors in Log Space 
     J. Rico (2019) Bayesian Inference: An Application to Kinect data
     [Source code](https://github.com/jvirico/bayesian_inference_linear_gaussian_model)
     [Report](https://rico-projects.notion.site/Bayesian-Inference-5eb7ac4f3b85418390ad0ee0ab68c9ea)
+
+
+## References
+[1] Kinect Gesture Dataset from Microsoft Research Cambridge ([`link`](https://www.microsoft.com/en-us/download/details.aspx?id=52283&from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fcambridge%2Fprojects%2Fmsrc12%2F)).
+
+[2] Naïve Bayes Classifier - Wikipedia ([`link`](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)).
+
+[3] Mathematical Statistics, Lecture 19 Gaussian Linear Models - MIT ([`link`](https://ocw.mit.edu/courses/mathematics/18-655-mathematical-statistics-spring-2016/lecture-notes/MIT18_655S16_LecNote19.pdf)).
+
+[4] Barber, D. (2018). Bayesian reasoning and machine learning. Cambridge University Press.
+
+[5] Scikit Learn. Cross-validation: evaluating estimator performance ([`link`](https://scikit-learn.org/stable/modules/cross_validation.html)).
+
+[6] S. Roweis and Z. Ghahramani, "A Unifying Review of Linear Gaussian Models," in Neural Computation, vol. 11, no. 2, pp. 305-345, 15 Feb. 1999, doi: 10.1162/089976699300016674.
+
+[7] DIGGLE, Peter J.; RIBEIRO JR, Paulo J. Bayesian inference in Gaussian model-based geostatistics. Geographical and environmental modelling, 2002, vol. 6, no 2, p. 129-146.
